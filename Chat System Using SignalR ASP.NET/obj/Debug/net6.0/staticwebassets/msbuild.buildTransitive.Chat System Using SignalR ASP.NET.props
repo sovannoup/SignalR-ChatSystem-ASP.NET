@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Chat System Using SignalR ASP.NET.props" />
+</Project>

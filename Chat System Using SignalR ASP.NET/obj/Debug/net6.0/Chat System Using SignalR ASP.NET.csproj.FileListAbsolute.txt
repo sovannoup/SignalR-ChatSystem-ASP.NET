@@ -1,0 +1,76 @@
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\appsettings.json
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Chat System Using SignalR ASP.NET.exe
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Chat System Using SignalR ASP.NET.deps.json
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Chat System Using SignalR ASP.NET.runtimeconfig.json
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Chat System Using SignalR ASP.NET.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Chat System Using SignalR ASP.NET.pdb
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Humanizer.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\Chat System Using SignalR ASP.NET.csproj.AssemblyReference.cache
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\Chat System Using SignalR ASP.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\Chat System Using SignalR ASP.NET.AssemblyInfoInputs.cache
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\Chat System Using SignalR ASP.NET.AssemblyInfo.cs
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\Chat System Using SignalR ASP.NET.csproj.CoreCompileInputs.cache
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\Chat System Using SignalR ASP.NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\Chat System Using SignalR ASP.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\staticwebassets\msbuild.Chat System Using SignalR ASP.NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\staticwebassets\msbuild.build.Chat System Using SignalR ASP.NET.props
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Chat System Using SignalR ASP.NET.props
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Chat System Using SignalR ASP.NET.props
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\scopedcss\bundle\Chat System Using SignalR ASP.NET.styles.css
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\Chat System Using SignalR ASP.NET.csproj.CopyComplete
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\Chat System Using SignalR ASP.NET.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\refint\Chat System Using SignalR ASP.NET.dll
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\Chat System Using SignalR ASP.NET.pdb
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\Chat System Using SignalR ASP.NET.genruntimeconfig.cache
+C:\Users\KDC\Desktop\Company\Chat System Using SignalR ASP.NET\Chat System Using SignalR ASP.NET\obj\Debug\net6.0\ref\Chat System Using SignalR ASP.NET.dll
